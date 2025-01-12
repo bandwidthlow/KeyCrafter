@@ -1,0 +1,2 @@
+PyGObject>=3.40.1
+paramiko>=2.11.0
